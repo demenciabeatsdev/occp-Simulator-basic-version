@@ -1,0 +1,21 @@
+{
+  "name": "occp-simulator-basic-version",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node occpSimulator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

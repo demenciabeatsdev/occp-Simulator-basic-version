@@ -1,0 +1,7 @@
+# Ignorar la carpeta modules
+modules/
+
+# Otras reglas que puedas tener
+node_modules/
+dist/
+.env
